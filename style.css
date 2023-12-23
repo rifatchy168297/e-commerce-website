@@ -171,11 +171,7 @@ img.logo {
 #hero button{
     width: 150px;
     height: 60px;
-<<<<<<< HEAD
-    background-color: #8be457;
-=======
     background-color: #02cc8c;
->>>>>>> 436ba68cc2992e19faad57af668e9ff5a1b4afc0
     box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: center;
@@ -367,10 +363,9 @@ img.logo {
 #sm-banner .banner-box {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: flex-start;
     background-image: url("images/banner/b17.jpg");
-    min-width: 800px;
     min-width: 650px;
     height: 50vh;
     background-size: cover;
