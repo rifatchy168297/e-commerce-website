@@ -366,7 +366,7 @@ img.logo {
     /* justify-content: center; */
     align-items: flex-start;
     background-image: url("images/banner/b17.jpg");
-    min-width: 650px;
+    min-width: 660px;
     height: 50vh;
     background-size: cover;
     background-position: center;
